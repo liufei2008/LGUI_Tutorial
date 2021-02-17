@@ -35,6 +35,11 @@ bld/
 [Bb]in/
 [Oo]bj/
 
+# my custom
+Plugins/LGUI
+Source/
+Binaries/
+
 # Visual Studo 2015 cache/options directory
 .vs/
 
