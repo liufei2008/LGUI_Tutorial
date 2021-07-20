@@ -1,0 +1,4 @@
+[submodule "Plugins/LGUI_ParticleSystem"]
+	path = Plugins/LGUI_ParticleSystem
+	url = https://github.com/liufei2008/LGUI_ParticleSystem.git
+	branch = master
