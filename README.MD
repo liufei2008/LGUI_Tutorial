@@ -16,3 +16,5 @@
 7. VR Template
    ![](VRTemplate1.png)
    ![](VRTemplate2.png)
+8. Blueprint implemented effects: Create Shadow/ LongShadow/ Outline in blueprint.
+    ![](BlueprintImplementedEffects.gif)
