@@ -16,7 +16,11 @@
 7. VR Template
    ![](VRTemplate1.png)
    ![](VRTemplate2.png)
+   ![](VRTemplate3.png)
+   ![](VRTemplate4.png)
 8. Blueprint implemented effects: Create Shadow/ LongShadow/ Outline in blueprint.
-    ![](BlueprintImplementedEffects.gif)
+   ![](BlueprintImplementedEffects.gif)
 9. UIStaticMesh
-    ![](UIStaticMesh.gif)
+   ![](UIStaticMesh.gif)
+10. UIProceduralRect
+   ![](UIProceduralRect.png)
