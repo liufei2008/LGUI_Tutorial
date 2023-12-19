@@ -3,18 +3,6 @@
 	"EngineAssociation": "5.1",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "LGUI_Tutorials",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine",
-				"CoreUObject",
-				"LGUI"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "LGUI",
